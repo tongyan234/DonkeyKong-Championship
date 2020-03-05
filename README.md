@@ -1,6 +1,6 @@
 # Donkey Kong Arcade - Championship Edition
 
-Kong League Championship
+Donkey KOng - Championship Edition
 
 This is the Donkey Kong - Championship rom-hack for the arcade version of Donkey Kong.
 
